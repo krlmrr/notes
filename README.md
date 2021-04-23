@@ -42,6 +42,7 @@
     ```ssh-keygen -t ed25519 -C "johnsmith@example.com"```
 
 11. Install FiraCode Font (Optional)
+12. Install [Beekeeper Studio](https://www.beekeeperstudio.io/download/?ext=exe&arch=&type=installer) / [dBeaver](https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe)
 
 
 
