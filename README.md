@@ -8,23 +8,33 @@
 
 3. Install PHP 
 
-   ``` choco install php ```
+   ```
+   choco install php 
+   ```
 
 4. Install Composer
 
-   ``` choco install composer ```
+   ``` 
+   choco install composer
+   ```
 
 5. Install Node.js
 
-   ```choco install nodejs```
+   ```
+   choco install nodejs
+   ```
 
 6. Install Git
 
-   ```choco install git``` 
+   ```
+   choco install git
+   ```
 
 7. Install MySQL
 
-   ```choco install mysql```
+   ```
+   choco install mysql
+   ```
 
 8. Download [Docker for Windows](https://desktop.docker.com/win/stable/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=header)
 
@@ -39,9 +49,12 @@
 
 11. Generate SSH Key
 
-    ```ssh-keygen -t ed25519 -C "johnsmith@example.com"```
+    ```
+    ssh-keygen -t ed25519 -C "johnsmith@example.com"
+    ```
 
 11. Install FiraCode Font (Optional)
+
 12. Install [Beekeeper Studio](https://www.beekeeperstudio.io/download/?ext=exe&arch=&type=installer) / [dBeaver](https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe)
 
 
