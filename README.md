@@ -1,5 +1,8 @@
 # Dev Environment Setup for Windows
 
+- [Packages](#packages)
+- [VS Code Extensions](#vs-code-extensions)
+
 ## Packages
 
 1. Install [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
