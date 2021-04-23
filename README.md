@@ -2,27 +2,46 @@
 
 ## Packages
 
-1. Windows Terminal
+1. Install [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
 
-2. Chocolatey
+2. Install [Chocolatey](https://chocolatey.org/)
 
-3. PHP 
+3. Install PHP 
 
    ``` choco install php ```
 
-4. Composer
+4. Install Composer
 
    ``` choco install composer ```
 
-5. Node.js
+5. Install Node.js
 
-   ``` choco install nodejs ```
+   ```choco install nodejs```
 
-6. Git
+6. Install Git
 
-   ``` choco install git ``` 
+   ```choco install git``` 
 
-7. Download [Docker for Windows](https://desktop.docker.com/win/stable/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=header)
+7. Install MySQL
 
-8. 
+   ```choco install mysql```
+
+8. Download [Docker for Windows](https://desktop.docker.com/win/stable/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=header)
+
+9. Download VS Code
+
+10. Config Git
+
+    ``` git
+    git config --global user.name "John Smith"
+    git config --global user.email "johnsmith@example.com"
+    ```
+
+11. Generate SSH Key
+
+    ```ssh-keygen -t ed25519 -C "johnsmith@example.com"```
+
+11. Install FiraCode Font (Optional)
+
+
 
