@@ -65,7 +65,7 @@
 
 15. Install [FiraCode Font (Optional)](https://github.com/tonsky/FiraCode/releases/download/5.2/Fira_Code_v5.2.zip)
 
-16. Install [Beekeeper Studio](https://www.beekeeperstudio.io/download/?ext=exe&arch=&type=installer) / [dBeaver](https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe)
+16. Install [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v1.10.2/Beekeeper-Studio-Setup-1.10.2.exe) / [dBeaver](https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe)
 
 17. Install Valet for Windows
 
