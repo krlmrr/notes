@@ -83,5 +83,16 @@
     valet start
     ```
 
-    
+
+## VS Code Extensions
+1. [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+2. [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+3. [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+4. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+5. [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+6. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+7. [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+8. [Files Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
+9. [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
+10. [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
