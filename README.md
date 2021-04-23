@@ -38,7 +38,7 @@
 
 8. Download [Docker for Windows](https://desktop.docker.com/win/stable/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=header)
 
-9. Download VS Code
+9. Download [VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 
 10. Config Git
 
