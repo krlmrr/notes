@@ -55,7 +55,23 @@
 
 11. Install FiraCode Font (Optional)
 
-12. Install [Beekeeper Studio](https://www.beekeeperstudio.io/download/?ext=exe&arch=&type=installer) / [dBeaver](https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe)
+13. Install [Beekeeper Studio](https://www.beekeeperstudio.io/download/?ext=exe&arch=&type=installer) / [dBeaver](https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe)
 
+14. Install Valet for Windows
 
+    ```
+    composer global require cretueusebiu/valet-windows
+    valet install
+    ```
+
+15. Change Directories into your project folder and run Valet Park
+
+    ```
+    mkdir code
+    cd code
+    valet park
+    valet start
+    ```
+
+    
 
